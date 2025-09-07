@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tap Away Boredom 🎨</title>
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    />
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Baloo+2&family=Chewy&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Link CSS -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="tap-area">
+      <header>
+        <h1>Welcome to Tap Away 🎉</h1>
+        <p>Don`t be bored — play the Tap Away Game to color your mood!</p>
+      </header>
+
+      <!-- Toggle Button -->
+      <button id="toggle-mode" type="button">Switch to Auto Mode</button>
+
+      <!-- Game Info -->
+      <div id="color-name">Tap to start 🎨</div>
+      <div id="tap-count">👆 0</div>
+      <div id="color-quote">Ready when you are...</div>
+
+      <!-- Milestone Cheer -->
+      <div id="milestone" style="display: none"></div>
+
+      <footer id="footer"></footer>
+    </div>
+
+    <!-- Tap Sound -->
+    <audio
+      id="tap-sound"
+      src="https://www.soundjay.com/buttons/sounds/button-16.mp3"
+      preload="auto"
+    ></audio>
+
+    <!-- Link JS -->
+    <script src="script.js"></script>
+  </body>
+</html>
