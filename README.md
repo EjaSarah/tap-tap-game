@@ -10,9 +10,9 @@ Try the Tap-Tap Game online here: [Live on Vercel](https://your-vercel-url.verce
 
 ![Tap-Tap Game Screenshot](./images/screenshot1.png)
 
-![Gameplay](./images/screenshort2.png)
+![Gameplay](./images/screenshot2.png)
 
-![Auto Mode](./images/screenshort3.png)
+![Auto Mode](./images/screenshot3.png)
 
 You can watch the color and quote changes in action, tap to play, or toggle auto mode!
 
