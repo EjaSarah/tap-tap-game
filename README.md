@@ -6,7 +6,7 @@ Fun, playful web app that changes background colors and displays matching quotes
 
 ## Demo / Live Link
 
-Try the Tap-Tap Game online here: [Live on Vercel](https://tap-tap-game-pk7mt0c8p-sarah-ejas-projects.vercel.app/)
+Try the Tap-Tap Game online here: [Live on Vercel](https://tap-tap-game-murex.vercel.app/)
 
 ![Tap-Tap Game Screenshot](./images/Screenshot1.png)
 
