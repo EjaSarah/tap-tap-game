@@ -8,11 +8,11 @@ Fun, playful web app that changes background colors and displays matching quotes
 
 Try the Tap-Tap Game online here: [Live on Vercel](https://your-vercel-url.vercel.app)
 
-![Tap-Tap Game Screenshot](./images/screenshot1.png)
+![Tap-Tap Game Screenshot](./images/Screenshot1.png)
 
-![Gameplay](./images/screenshot2.png)
+![Gameplay](./images/Screenshot2.png)
 
-![Auto Mode](./images/screenshot3.png)
+![Auto Mode](./images/Screenshot3.png)
 
 You can watch the color and quote changes in action, tap to play, or toggle auto mode!
 
